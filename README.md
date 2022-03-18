@@ -18,3 +18,7 @@ Illumina 100bp reads:
 https://www.ebi.ac.uk/ena/browser/view/ERR240727
 ```
 
+Reference Genome:
+```
+/mnt/batty-shared/species/human-9606/reference/hg38/chr1.fa
+```
