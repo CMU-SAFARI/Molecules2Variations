@@ -22,3 +22,15 @@ conda install -c bioconda minimap2
 ```
 conda install -c bioconda pbmm2
 ```
+
+
+# Variantt Calling:
+## DeepVariant
+```
+conda install -c bioconda deepvariant
+```
+
+## Pepper + DeepVariant
+```
+https://github.com/kishwarshafin/pepper
+```
