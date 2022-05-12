@@ -1,4 +1,4 @@
-We use the following tools for performing our analysis and producing the experiemenal results reported in the paper:
+We use the following tools for performing our analysis and producing the experiemenal results tha are reported in the paper:
 # Conda
 ```
 bash Anaconda3-2021.11-Linux-x86_64.sh
