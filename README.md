@@ -1,4 +1,4 @@
-# From Molecules to Genomic Variations: Accelerating Genome Analysis via Intelligent Algorithms and Architectures
+# From Molecules :dna::test_tube: to Genomic Variations :stethoscope::pill:: Accelerating Genome Analysis via Intelligent Algorithms and Architectures
 
 We describe the ongoing journey in significantly improving the performance, accuracy, and efficiency of genome analysis using intelligent algorithms and hardware architectures. We need to read, analyze, and interpret our genomes not only quickly, but also accurately and efficiently enough to scale the analysis to population level. There currently exist major computational bottlenecks and inefficiencies throughout the entire genome analysis pipeline, because state-of-the-art genome sequencing technologies are still not able to read a genome in its entirety. Our paper is the first to provide a comprehensive survey of a prominent set of algorithmic improvement and hardware acceleration efforts for the entire genome analysis pipeline.
 
