@@ -56,7 +56,7 @@ If you use this paper in your work, please cite:
 
 > Mohammed Alser, Joel Lindegger, Can Firtina, Nour Almadhoun, Haiyu Mao, Gagandeep Singh, Juan Gomez-Luna, Onur Mutlu. 
 > "From Molecules to Genomic Variations: Accelerating Genome Analysis via Intelligent Algorithms and Architectures"
-> arXiv preprint **arXiv** (2022). [link]([https://arxiv.org](https://arxiv.org/abs/2205.07957))
+> arXiv preprint **arXiv** (2022). [link](https://arxiv.org/abs/2205.07957)
 
 Below is bibtex format for citation.
 
@@ -69,4 +69,4 @@ Below is bibtex format for citation.
   publisher = {arXiv},
   year = {2022}
 }
-
+```
